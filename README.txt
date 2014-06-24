@@ -1,14 +1,10 @@
 Credits
 =======
-	Design
+	Design & Art
 		Nacho Zaba (nachozaba.com)
 
 	Template
 		Aerial 1.0 by HTML5 UP
-
-	Images
-		Ryan Schroeder (http://www.flickr.com/photos/ryanschroeder/) via Unsplash (http://unsplash.com - CC0 licensed)
-			"Icefields" (https://www.flickr.com/photos/ryanschroeder/11876741703/)
 
 	Icons
 		Font Awesome (http://fortawesome.github.com/Font-Awesome/)
