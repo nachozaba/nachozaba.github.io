@@ -1581,3 +1581,7 @@
 	.carousel article {
 		background: none;
 	}
+
+	.carousel .reel {
+		text-align: center;
+	}

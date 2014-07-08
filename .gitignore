@@ -1,10 +1,2 @@
-
-# temp 
-*~
-
-# emacs
-*\#*
-
-# flymake
-*flymake*
-
+.DS_Store
+*.*~
