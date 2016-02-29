@@ -368,13 +368,12 @@ CONTENT
 }
 
 .content .text-link{
-  margin: 170px auto 0;
+  margin: 220px auto 0;
 }
 
 .content .text-link a{
-	
   font-size:13px;
-  color:#8d8d8d;
+  color: #F24C27;
   margin-right:15px;
   margin-left:15px;
   font-weight:400;
@@ -390,10 +389,9 @@ CONTENT
 }
 
 .content .text-intro h1{
-  font-size:43px;
-  width:40%;
+  font-size:18px;
   text-transform:uppercase;
-  color:#000000;
+  color: #024959;
   font-weight:900;
   line-height:70px;
 }
