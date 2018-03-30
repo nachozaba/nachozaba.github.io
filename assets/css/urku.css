@@ -91,8 +91,8 @@ body {
   -webkit-flex: 0 0 100%;
       -ms-flex: 0 0 100%;
           flex: 0 0 100%;
-  font-size: 1.3rem;
-  font-weight: 700;
+  font-size: 1.1rem;
+  font-weight: 100;
   letter-spacing: 2.25px;
   text-align: center;
   text-transform: uppercase;
@@ -1984,6 +1984,7 @@ body {
   display: inherit;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
+  text-transform: uppercase;
 }
 .rk-menu__item:first-child {
   padding-left: 0;
