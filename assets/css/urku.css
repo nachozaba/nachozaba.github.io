@@ -1261,6 +1261,18 @@ body {
   background-image: url("../img/project-18.jpg");
 }
 
+.item-19 {
+  background-image: url("../img/project-Girl.jpg");
+}
+
+.item-20 {
+  background-image: url("../img/project-Chocolate.jpg");
+}
+
+.item-21 {
+  background-image: url("../img/project-Dreamcup.jpg");
+}
+
 
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .rk-items-cont {
