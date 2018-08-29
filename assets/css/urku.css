@@ -1273,6 +1273,10 @@ body {
   background-image: url("../img/project-Dreamcup.jpg");
 }
 
+.item-22 {
+  background-image: url("../img/project-oceans.jpg");
+}
+
 
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .rk-items-cont {
