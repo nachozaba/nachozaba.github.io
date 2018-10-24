@@ -504,7 +504,7 @@ body {
 }
 @media (min-width: 40em) {
   .rk-item {
-    border-width: 4px;
+    border-width: 6px;
   }
 }
 
@@ -1343,10 +1343,11 @@ body {
 
 .rk-portfolio-inner-title {
   margin-top: .2em;
+  margin-bottom: .0rem;
 }
 
 .rk-portfolio-details p {
-  margin-bottom: .4rem;
+  margin-bottom: .0rem;
 }
 
 .item-inside__meta {
